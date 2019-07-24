@@ -116,6 +116,11 @@ ul.social > li a {
   color:#024638;
 }
 
+.row .card .span {
+  font-weight: bold;
+  color:white;
+}
+
 .card.card-green {
   background:#465653;
   color: white;
