@@ -11,6 +11,11 @@ body {
 }
 
 
+.span {
+  font-weight: bold;
+  color:black;
+}
+
 
 .hero {
   background: url("images/bg.jpg");
