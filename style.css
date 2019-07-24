@@ -7,11 +7,16 @@ body {
   font-size:15px;
   color: #797474;
   background: #fcfeff;
-
-
   line-height:25px;
 }
 
+a {
+  background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
+  color: #636363;
+  font-weight: lighter;
+  font-size: 25px;
+  font-style: italic;
+}
 
 .hero {
   background: url("images/bg.jpg");
