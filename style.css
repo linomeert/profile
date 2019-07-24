@@ -11,7 +11,7 @@ body {
 }
 
 
-.span {
+span {
   font-weight: bold;
   color:black;
 }
@@ -116,7 +116,7 @@ ul.social > li a {
   color:#024638;
 }
 
-.row .card .span {
+.row .card span {
   font-weight: bold;
   color:white;
 }
